@@ -1,0 +1,44 @@
+:root {
+    --main-light-color:#ffffff;
+    --main-text-color: #000000;
+    --acent-color: #F7941E;
+    --first-section-bg: #F1F1F2;
+    --footer-card-bg: #FAFAFA;
+    --main-font:'Poppins', sans-serif;
+    --logo-font: "Homemade Apple", sans-serf;
+}
+
+image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+body {
+    background-color: var(--main-light-color);
+    color: var(--main-text-color);
+    font-family: var(--main-font);
+}
+
+.title {
+    font-size: 56px;
+    line-height: 1.23;
+    line-height: calc(69 / 56);
+
+}
+
+.text {
+
+}
+
+.subtitle {
+}
+.gift-list {
+}
+.gift-item {
+    background-color: var(--footer-card-bg);
+}
+.gift-name {
+}
+.gift-link {
+}
